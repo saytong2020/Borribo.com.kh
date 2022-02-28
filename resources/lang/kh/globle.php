@@ -34,7 +34,7 @@ return [
         'Back' => 'ត្រឡប់ក្រោយ',
         'Update' => 'កែសម្រួល',
         'Select' => 'ជ្រើសរើស',
-        'Situation' => 'សន្ថានភាព',
+        'Situation' => 'ស្ថានភាព',
         'Print' => 'Print',
     ],
 
@@ -109,6 +109,9 @@ return [
         'Province' => 'រាជធានី / ខេត្ត',
         'District' => 'ខ័ណ្ឌ / ស្រុក',
         'Commune' => 'សង្កាត់ / ឃុំ',
+
+        
+        'Submit' => 'បញ្ជូន',
     ],
 
 

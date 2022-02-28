@@ -111,6 +111,8 @@ return [
         'District' => 'District',
         'Commune' => 'Commune',
 
+        'Submit' => 'Submit',
+
 
     ],
 

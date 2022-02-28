@@ -130,7 +130,7 @@
 
 
                             <div class="button">
-                                <button type="submit" class=" btn btn-left">Send message</button>
+                                <button type="submit" class=" btn btn-left"> {{__('globle.form.Submit')}} </button>
                             </div>
 
 

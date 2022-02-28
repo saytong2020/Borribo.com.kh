@@ -79,7 +79,7 @@
                                     <div class="form-group">
                                         <label for="gender">{{__('globle.form.gender')}}</label>
                                         <input disabled class="form-control @error('position') is-invalid @enderror"
-                                            name="position" value="{{$viewapplyedloan->genderapplyedloan->name}}"
+                                            name="position" value="{{ $viewapplyedloan->genderapplyedloan->{'title_' . app()->getLocale()} }}"
                                             required="" type="text">
 
                                         @error('position')

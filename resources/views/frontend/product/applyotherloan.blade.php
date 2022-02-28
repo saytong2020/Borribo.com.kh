@@ -279,7 +279,7 @@
 
                         </div>
                         <div class="button">
-                            <button type="submit" class=" btn btn-left">Submit</button>
+                            <button type="submit" class=" btn btn-left"> {{__('globle.form.Submit')}} </button>
                         </div>
                     </form>
                 </div>
