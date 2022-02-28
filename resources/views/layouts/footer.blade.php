@@ -74,7 +74,7 @@
                     <div class="col-md-12">
                         <div class="copyright">
                             <div class="copyright-text">
-                                {{__('globle.copyright')}} {{__('about.borribo-microfinance')}} (version: 2.0)
+                                {{__('globle.copyright')}} {{__('about.borribo-microfinance')}} (v: 00.2)
                             </div>
                         </div>
                     </div>
