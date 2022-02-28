@@ -76,7 +76,7 @@
                                 <div class="input-services">
                                     <label for="services" class="heading-features"> {{ __('globle.form.phone') }} <strong
                                             style="color: red;">*</strong></label>
-                                    <input type="text" name="phone" class="input-contact" required maxlength="10">
+                                    <input type="number" name="phone" class="input-contact" required maxlength="10">
                                 </div>
                             </div>
                             {{-- <div class="input-message">

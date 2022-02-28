@@ -115,11 +115,7 @@ return [
 
 
     ],
-
-
-
-
-
     
-    
+
+    'copyright' => 'Copyright by',
 ];

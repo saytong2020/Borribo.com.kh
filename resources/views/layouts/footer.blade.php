@@ -74,7 +74,7 @@
                     <div class="col-md-12">
                         <div class="copyright">
                             <div class="copyright-text">
-                                Copyright 2021 by Borribo MFI. v2.0
+                                {{__('globle.copyright')}} {{__('about.borribo-microfinance')}} (version: 2.0)
                             </div>
                         </div>
                     </div>

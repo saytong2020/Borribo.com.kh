@@ -2971,7 +2971,8 @@ article.post .content-post .more-link a:hover {
     margin-right: 1.8%;
     text-align: center;
     font-size: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: khmerFOnt,'Jost';
+    src: url(../../fonts/khmer-font/Normal/Siemreap-Regular.ttf);
     font-weight: 300;
     line-height: 19px;
     color: #ffff;

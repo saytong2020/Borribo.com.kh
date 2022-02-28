@@ -75,13 +75,13 @@
                                         <div class="col-md-3 col-sm-12 mg-top-20 ">
 
                                             <a href="{{ route('applyjob',[$job->id])}}" class="mg-bottom-20 mg-left-15 f-right">
-                                                <button style="color: #fff; border-radius: 10px;">Apply Now
+                                                <button style="color: #fff; border-radius: 10px;"> {{__('globle.apply')}} {{__('sidebar.Job')}}
                                                 </button>
                                             </a>
 
                                             <a href="{{ route('detailjob',[$job->id])}}" class="f-right">
                                                 <button style="color: #fff; border-radius: 10px; ">
-                                                    Detail Job
+                                                    {{__('globle.detail')}} {{__('sidebar.Job')}}
                                                 </button>
                                             </a>
                                         </div>
