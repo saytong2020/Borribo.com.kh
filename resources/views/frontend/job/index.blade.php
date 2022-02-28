@@ -176,14 +176,14 @@
                                         <div class="icon-call-us"></div>
                                         <div class="content-call-us">
                                             <h4 class="heading-16px-rubik">Call Us</h4>
-                                            <h4 class="heading-16px-rubik">087 81 82 15</h4>
+                                            <h4 class="heading-16px-rubik"><p class="desc-box text-pri2-color "> <a href="tel:+85587818215">087 81 82 15</a> </p></h4>
                                         </div>
                                     </div>
                                     <div class="our-mail">
                                         <div class="icon-our-mail"></div>
                                         <div class="content-our-mail">
                                             <h4 class="heading-16px-rubik">Mail</h4>
-                                            <h4 class="heading-16px-rubik">bmimfi@borribo.com.kh</h4>
+                                            <h4 class="heading-16px-rubik"> <a href="mailto:bmimfi@borribo.com.kh">bmimfi@borribo.com.kh</a> </h4>
                                         </div>
                                     </div>
                                 </div>

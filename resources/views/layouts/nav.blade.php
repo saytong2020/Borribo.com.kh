@@ -15,7 +15,7 @@
                         <div class="top-bar-right link-style3">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <a class="mr-4" href="#" class="top-mail">bmimfi@borribo.com.kh</a>
+                                    <a class="mr-4" href="mailto:bmimfi@borribo.com.kh" class="top-mail">bmimfi@borribo.com.kh</a>
                                     @foreach (config('app.available_locales') as $locale)
 
                                         

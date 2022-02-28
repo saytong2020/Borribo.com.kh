@@ -78,18 +78,17 @@
                         <h2 class="section-heading-jost-size28 text-pri2-color">{{__('menu.contact')}}</h2>
                     </div>
                     <ul class="widget-sidebar-contact-us text-pri2-color">
-                        <li><span class="icon-author">Ceo:</span><span class="info-contact-us">Linko Bunt</span>
+                        <li><span class="icon-author"></span><span class="info-contact-us">{{__('contact.head-office')}}</span>
                         </li>
-                        <li><span class="icon-telephone">{{__('globle.form.phone')}}:</span><span class="info-contact-us">012 345 678
-                                9101</span></li>
+                        <li><span class="icon-telephone"></span><span class="info-contact-us">  <a href="tel:+85523222119">023 222 119</a>  / <a href="tel:+85587838688">087 838 688</a> </span></li>
                        
-                        <li><span class="icon-email">E-mail:</span><span
-                                class="info-contact-us">yourmail@gmail.com</span></li>
+                        <li><span class="icon-email"></span><span
+                                class="info-contact-us">bmimfi@borribo.com.kh</span></li>
                     </ul>
                 </div>
                 <div class="services-details-case-studio bd-radius-8">
                      
-                    <h2 class="title-case-studio section-heading-jost-size28 text-pri2-color">Apply Loan</h2>
+                    <h2 class="title-case-studio section-heading-jost-size28 text-pri2-color">{{__('globle.apply')}} {{__('globle.Loans')}}</h2>
                     <p class="section-desc mg-bottom-43">{{ $loan->{'description_'.app()->getLocale()} }}</p>
 
                      <div class="button-apply">

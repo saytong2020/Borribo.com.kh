@@ -131,8 +131,8 @@
 
                                 <hr style="border: 2px solid brown;border-radius: 5px;">
 
-                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> 023
-                                    222 119, 023 222 776, 023 222 090, 087 838 688, 087 818 286</p>
+                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> <a href="tel:+85523222119">023
+                                    222 119</a> | <a href="tel:+85523222776">023 222 776 </a> | <a href="tel:+85523222090">023 222 090 </a> |  <a href="tel:+85587838688"> 087 838 688 </a> | <a href="tel:+85587818286">087 818 286 </a> </p>
 
                                 <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.e-mail')}}: </strong>
                                     bmimfi@borribo.com.kh</p>
@@ -155,7 +155,7 @@
 
                                 <hr style="border: 2px solid brown;border-radius: 5px;">
 
-                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> 087 82 85 86 - 087 81 82 67</p>
+                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> <a href="tel:+85587828586"> 087 82 85 86</a> | <a href="tel:+85587818267"> 087 81 82 67 </a></p>
 
                                 <p class="desc-box text-pri2-color"><strong style="color:brown;">{{__('contact.address')}}:</strong> {{__('contact.ta-khmao-address')}}</p>
 
@@ -171,7 +171,7 @@
 
                                 <hr style="border: 2px solid brown;border-radius: 5px;">
 
-                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> 087 81 82 18 - 087 81 82 11</p>
+                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> <a href="tel:+85587818218"> 087 81 82 18 </a>  - <a href="tel:+85587818211"> 087 81 82 11 </a></p>
 
                                 <p class="desc-box text-pri2-color"><strong style="color:brown;">{{__('contact.address')}}: </strong>
                                     {{__('contact.angk-snoul-address')}}</p>
@@ -189,7 +189,7 @@
 
                                 <hr style="border: 2px solid brown;border-radius: 5px;">
 
-                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> 087 81 83 61 - 087 81 82 68</p>
+                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> <a href="tel:+85587818361">087 81 83 61</a> | <a href="tel:+85587818268">087 81 82 68</a> </p>
 
                                 <p class="desc-box text-pri2-color"><strong style="color:brown;">{{__('contact.address')}}: </strong>
                                     {{__('contact.kien-svay-address')}}</p>
@@ -207,7 +207,7 @@
 
                                 <hr style="border: 2px solid brown;border-radius: 5px;">
 
-                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong>087 81 82 15</p>
+                                <p class="desc-box text-pri2-color "><strong style="color:brown;">{{__('contact.tell')}}: </strong> <a href="tel:+85587818215">087 81 82 15</a> </p>
 
                                 <p class="desc-box text-pri2-color"><strong style="color:brown;">{{__('contact.address')}}: </strong>{{__('contact.doun-penh-address')}}</p>
 
