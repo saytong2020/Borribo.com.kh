@@ -54,10 +54,10 @@ class ApplyLoanNotification extends Notification
      */
     public function toArray($notifiable)
     {
-        return [
+        return [ 
             'name'=>$this->applyedloan['name'],
             'email'=>$this->applyedloan['email'],
-            'id_job'=>$this->applyedloan['id_job'],
+           'id_loan'=>$this->applyedloan['id_loan'],
         ];
     }
 }
