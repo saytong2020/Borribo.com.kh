@@ -69,16 +69,10 @@
     <style>
       @font-face {
         font-family: khmerFOnt;
-        
         src: url(../../fonts/khmer-font/Normal/Siemreap-Regular.ttf);
-
-
-       
       }
       body{
         font-family: khmerFOnt, Arial;
-        
-		
       }
 
     </style>

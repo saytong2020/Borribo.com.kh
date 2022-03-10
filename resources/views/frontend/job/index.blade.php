@@ -81,7 +81,7 @@
 
                                             <a href="{{ route('detailjob',[$job->id])}}" class="f-right">
                                                 <button style="color: #fff; border-radius: 10px; ">
-                                                    {{__('globle.detail')}} {{__('sidebar.Job')}}
+                                                    {{__('globle.detail')}}
                                                 </button>
                                             </a>
                                         </div>
@@ -156,7 +156,7 @@
                                         </a>
                                     </div>
                                     <div class="text">
-                                        <h3><a href="{{ route('detailjob',[$latestjob->id])}}" class="title-thumb">{{ Str::limit($latestjob->{'title'.app()->getLocale()}, 70) }}</a></h3>
+                                        <h3><a href="{{ route('detailjob',[$latestjob->id])}}" class="title-thumb">{{ Str::limit($latestjob->{'title_'.app()->getLocale()}, 70) }}</a></h3>
                                 <a href="#" class="date">{{ $latestjob->created_at->format('Y-m-d') }}</a>
                                     </div>
                                 </li> 
